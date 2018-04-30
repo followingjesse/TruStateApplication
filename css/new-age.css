@@ -441,6 +441,26 @@ footer.copyright {
   background-color: #fdcc52;
 }
 
+#login .btn-outline {
+  color: white;
+  background-color: #fdcc52;
+}
+
+#login .btn-outline:hover {
+  color: white;
+  background-color: #fdcc52;
+}
+
+#signup .btn-outline {
+  color: white;
+  background-color: #fdcc52;
+}
+
+#signup .btn-outline:hover {
+  color: white;
+  background-color: #fdcc52;
+}
+
 .btn {
   border-radius: 300px;
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
